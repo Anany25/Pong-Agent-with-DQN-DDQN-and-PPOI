@@ -19,21 +19,6 @@ Ensure you have Python installed along with the following libraries:
 - PyTorch
 - Matplotlib
 
-### Installation
-Clone this repository and install the required dependencies:
-```bash
-git clone https://github.com/yourusername/pong-rl.git
-cd pong-rl
-pip install -r requirements.txt
-```
-
-## Running the Agents
-To start training the agents, use the command:
-```bash
-python train_agents.py
-```
-Modify the script to switch between different algorithms and training settings.
-
 ## Methodologies
 Each RL method utilized different strategies and network architectures:
 - **DQN and DDQN**: Employ an epsilon-greedy strategy, experience replay, and separate strategy/target networks.
@@ -54,3 +39,5 @@ This project is open-sourced under the MIT license. See the [LICENSE](LICENSE.md
 ## Acknowledgments
 - Contributions and data provided by Gymnasium.
 - Theoretical foundations inspired by seminal papers and implementations in the field of RL.
+
+Read report for more details
