@@ -40,4 +40,4 @@ This project is open-sourced under the MIT license. See the [LICENSE](LICENSE.md
 - Contributions and data provided by Gymnasium.
 - Theoretical foundations inspired by seminal papers and implementations in the field of RL.
 
-Read report for more details
+For detailed academic references and methodologies, please refer to the literature listed in the project report.
